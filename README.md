@@ -7,6 +7,7 @@ Notice how we load other files into our code. eg mystyles.css and ball.js. Somet
 This allows you to create balls that move under gravity. They will bounce off the walls.
 Understand how to create a ball at a specific location. Also to give it a velocity that varies under gravity.
 Understand how arrays are used to store lots of balls.  Try following commands
+
 1. factory(20)
 2. update()
 
@@ -17,6 +18,7 @@ This explores how molecule move randomly.
 We investigate a "sneeze"
 Can you add gravity so the virus particles drop to the ground?
 Try following commands:
+
 1. factory(20)
 2. update()
 3. speed = 3
@@ -26,6 +28,7 @@ Try following commands:
 
 Here we add tracking of the particles. How do we do this? It seems "wasteful" to create lots of copies of the particles. However, in the browser its the only way.
 Try following commands:
+
 1. factory(20) OR click at random points inside the box
 2. update()
 3. speed = 3
@@ -33,5 +36,6 @@ Try following commands:
 
 ## string.html
 
-#### Credit
+### Credit
+
 MIT Professional Certificate in Coding: Full Stack Development with MERN - September 2021, with assigned coding enhacements
