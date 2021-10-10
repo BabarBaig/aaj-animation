@@ -31,9 +31,11 @@
       }
       setTimeout(update, 100); // this calls update ever 1/10 second
     }
+
     function getRandom(scale) {
       return Math.random() * scale;
     }
+
     function factory(total) {
       // check how make balls exist already and add to the array
       let n = balls.length;
@@ -45,6 +47,7 @@
         makeBall(getRandom(800), getRandom(400), randomColor, velx, vely, 0);
       }
     }
+
   </script>
   <div class="svg-container">
     <svg height="100%" width="100%" xmlns="http://www.w3.org/2000/svg">
