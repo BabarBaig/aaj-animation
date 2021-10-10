@@ -32,3 +32,5 @@ Try following commands:
 4. gravity = 1
 
 ## string.html
+
+Credit: MIT Professional Certificate in Coding: Full Stack Development with MERN - September 2021, with assigned coding enhacements
