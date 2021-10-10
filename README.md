@@ -34,4 +34,5 @@ Try following commands:
 ## string.html
 
 ##Credit
-<br>MIT Professional Certificate in Coding: Full Stack Development with MERN - September 2021, with assigned coding enhacements
+
+MIT Professional Certificate in Coding: Full Stack Development with MERN - September 2021, with assigned coding enhacements
