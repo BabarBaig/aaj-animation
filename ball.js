@@ -7,6 +7,7 @@ function makeBall(xcoord, ycoord, color, velx = 0, vely = 0, fixed = 0) {
   ball.style.height = ball.style.width = size;
   ball.style.top = ycoord;
   ball.style.left = xcoord;
+  // console.log(color)
   document.body.appendChild(ball);
   if (!fixed) {
     // only free balls will be updated
